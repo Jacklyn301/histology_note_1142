@@ -1505,7 +1505,7 @@ classDef visceral fill:#ffe699,stroke:#d4ac0d,stroke-width:2px,color:#000
 - 脊髓的背根 (**dorsal root**)，由感覺神經元的軸突進入脊髓，屬於傳入
 - 脊髓的腹根 (**ventral root**)，由運動神經元的軸突離開脊髓，屬於傳出
 
-![image alt](https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/brain/brain-spine-gray-and-white-matter.jpg)
+![image alt](https://thesciencenotes.com/wp-content/uploads/2024/11/1-1.jpg)
 
 <details>
 <summary>👉 詳細備註在這</summary>
