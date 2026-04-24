@@ -113,7 +113,7 @@ title the cell cycle
     prometaphase: nuclear membrane breakdown
     metaphase: form metaphase plate
     anaphase: chromosome break at centromeres
-    telophase: nuclear membrane reforms\
+    telophase: nuclear membrane reforms
     
   section cytolinesis
     myosin II & actin filament ring contract: cleave cell in two
@@ -1206,13 +1206,13 @@ classDef basophil fill:#fff0b5,stroke:#daa520,stroke-width:2px,color:#000
 | --- | --- | --- | --- |
 | **Location** | 一般附著在骨骼 | 常見於中空臟器 (腸道、膀胱)、虹膜、血管壁 | 心肌層 (Myocardium)，以及心臟大血管入口處 |
 | **Shape** | 長而圓柱狀，平行排列 | 短而梭形 (spindle-shaped) | 分枝狀，末端鈍圓 |
-| **Striations** | 有✅ | 無❎ | 有❎ |
+| **Striations** | 有✅ | 無❎ | 有✅ |
 | **Nucleus** | 多個，位於細胞周邊 | 單一，位於中央 | 一或兩個，位於中央 |
 | **T tubules** | 存在於A–I帶交界處 | 無，但有 **caveolae** (替代 T 小管功能) | 存在於Z disk |
 | **Sarcoplasmic Reticulum** | 發達，包圍肌絲並與 T 小管形成**三聯體，triad** | 發育不良，僅有少量 | 不如骨骼肌發達，與 T 小管形成**二聯體，diad** |
-| **Gap Junctions** | 無❎ | 有 ❎| 有❎，位於**心間盤，intercalated disks** |
+| **Gap Junctions** | 無❎ | 有✅ | 有✅，位於**心間盤，intercalated disks** |
 | **Control of Contraction** | voluntary | involuntary | involuntary |
-| **Sarcomere** | 有❎ | 無❎ | 有❎ |
+| **Sarcomere** | 有✅ | 無❎ | 有✅ |
 | **Regeneration** | 受限 | 強 | 有限 |
 | **組織學特徵** | 多條橫紋，周邊多核 | 無橫紋，中央單核 | intercalated disks |
 
