@@ -1741,3 +1741,9 @@ flowchart LR
 - 血管周邊細胞，**pericyte**，包圍血管內皮，同時astrocyte也會來幫忙
 
 ![image alt](https://as1.ftcdn.net/v2/jpg/05/47/93/66/1000_F_547936615_TlsvFoFYeIoR84rSsNr6oqkxIzkyB7b3.jpg)
+
+> [!Note]
+>  想要直接翻更多的內容嗎? 建議直接來看[課本上的切片組織](https://histologyguide.com/gallery/gallery.html) 😼
+
+
+<iframe src="https://histologyguide.com/gallery/gallery.html" width="100%" height="600px"><>
