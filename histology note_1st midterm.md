@@ -619,7 +619,7 @@ title the cell cycle
   - 硫酸角質素I和II (keratan sulfate I and II)
   - 肝素 (heparin) 和硫酸乙醯肝素 (heparan sulfate)
 
-![image alt](https://www.frontiersin.org/files/Articles/516467/fimmu-11-00483-HTML/image_m/fimmu-11-00483-g001.jpg)
+![image alt](https://raw.githubusercontent.com/Jacklyn301/image_bank/main/glycosaminoglycans_types_0613.jpg)
 
 - 除了玻尿酸 (hyaluronic acid，透明質酸)，大部分的GAGs都是硫酸化的
 - 玻尿酸由於含有羧基，這些基團會失去質子變成負電荷，負電荷會吸引帶正電的離子，當一堆正離子被吸過來時，為了平衡濃度，水分子就會透過滲透作用衝進去，促進保水的功能，讓液體流速減慢
